@@ -19,7 +19,7 @@ A clean and modern **CSS-only animation** featuring a smooth horizontally moving
 - HTML5  
 - CSS3 (Keyframes, Gradients, Transforms)
 
----
+--
 
 ## ▶️ How to Use
 
